@@ -17,16 +17,16 @@ O curso foi dividido em 12 tópicos. Cada tópico foi organizado em um diretóri
 
 1. [Revisão Fundamentos Lógica de Programação](#revisao) 
 1. [Introdução a Orientação a Objetos](#introducao)
-1. Design de Métodos
-1. Criação de Objetos
-1. Encapsulamento e Controle de Acesso
-1. Membros Estáticos
-1. Tipos Avançados
-1. Coleções de Objetos
-1. Relacionamentos entre Classes
-1. Herança
-1. Interface
-1. Princípios do Design Orientado a Objetos
+1. [Design de Métodos](#design)
+1. [Criação de Objetos](#criacao)
+1. [Encapsulamento e Controle de Acesso](#encapsulamento)
+1. [Membros Estáticos](#estatico)
+1. [Tipos Avançados](#tipos)
+1. [Coleções de Objetos](#colecao)
+1. [Relacionamentos entre Classes](#relacionamento)
+1. [Herança](#heranca)
+1. [Interface](#interface)
+1. [Princípios do Design Orientado a Objetos](#principios)
 
 
 ### <a name="revisao"></a> 1. Revisão Fundamentos de Lógica de Programação
@@ -51,7 +51,7 @@ O curso foi dividido em 12 tópicos. Cada tópico foi organizado em um diretóri
 * Diagrama de classes
 * Diagrama de objetos
 
-### 3. Projeto de Métodos
+### <a name="design"></a> 3. Design de Métodos
 
 * Métodos
 * Assinatura
@@ -62,7 +62,7 @@ O curso foi dividido em 12 tópicos. Cada tópico foi organizado em um diretóri
 * Métodos Estáticos 
 * Argumento padrão 
 
-### 4. Criação de Objetos
+### <a name="criacao"></a> 4. Criação de Objetos
 
 * Construtor
 * Construtor Padrão
@@ -70,48 +70,48 @@ O curso foi dividido em 12 tópicos. Cada tópico foi organizado em um diretóri
 * Sobrecarga
 * Encadeamento
 
-### 5. Encapsulamento e Controle de Acesso
+### <a name="encapsulamento"></a> 5. Encapsulamento e Controle de Acesso
 
 * Encapsulamento
 * Modificadores de acesso
 * Métodos acessores e modificadores
 
-### 6. Membros Estáticos
+### <a name="estatico"></a> 6. Membros Estáticos
 
 * ...
 * ...
 * ...
 
-### 7.  Tipos Avançados
+### <a name="tipos"></a> 7.  Tipos Avançados
 
 * ...
 * ...
 * ...
 
-### 8.  Coleções de Objetos
+### <a name="colecao"></a> 8.  Coleções de Objetos
 * ...
 * ...
 * ...
 
-### 9. Relacionamentos entre Classes
-
-* ...
-* ...
-* ...
-
-### 10.  Herança
+### <a name="relacionamento"></a> 9. Relacionamentos entre Classes
 
 * ...
 * ...
 * ...
 
-### 11.  Interface
+### <a name="heranca"></a> 10.  Herança
 
 * ...
 * ...
 * ...
 
-### 12.  Princípios do Design Orientado a Objetos
+### <a name="interface"></a> 11.  Interface
+
+* ...
+* ...
+* ...
+
+### <a name="principios"></a> 12. Princípios do Design Orientado a Objetos
 
 * ...
 * ...
