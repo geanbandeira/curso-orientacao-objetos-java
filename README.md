@@ -15,8 +15,8 @@ O curso foi dividido em 12 tópicos. Cada tópico foi organizado em um diretóri
 
 ## Tópicos do curso
 
-1. [Revisão Fundamentos Lógica de Programação](#revisão-fundamentos-de-lógica-de-programção) 
-1. [Introdução a Orientação a Objetos](#introdução-a-orientação-a-objetos)
+1. [Revisão Fundamentos Lógica de Programação](#revisao) 
+1. [Introdução a Orientação a Objetos](#introducao)
 1. Design de Métodos
 1. Criação de Objetos
 1. Encapsulamento e Controle de Acesso
@@ -29,7 +29,7 @@ O curso foi dividido em 12 tópicos. Cada tópico foi organizado em um diretóri
 1. Princípios do Design Orientado a Objetos
 
 
-### 1. Revisão Fundamentos de Lógica de Programação
+### <a name="revisao"></a> 1. Revisão Fundamentos de Lógica de Programação
 
 * Algoritmos
 * Variáveis e tipos de dados
@@ -38,7 +38,7 @@ O curso foi dividido em 12 tópicos. Cada tópico foi organizado em um diretóri
 * Vetores e matrizes
 * Funções
 
-### 2. Introdução a Orientação a Objetos
+### <a name="introducao"></a> 2. Introdução a Orientação a Objetos
 
 * Paradigma de programação
 * Paradigma procedural/estruturado vs. orientado a objetos
