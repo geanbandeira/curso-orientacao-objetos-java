@@ -1,21 +1,20 @@
 # Curso Orientação a Objetos em Java
 
-Este repositório tem como objetivo organizar os materiais (código fonte, slides, listas de exercícios, etc) utilizados na primeira parte do componente curricular Lógica 2, do curso Técnico de Informática Integrado ao Ensino Médio do IFSP Câmpus São Paulo. 
+Este repositório tem como objetivo organizar os materiais (código fonte, slides, listas de exercícios, etc) utilizados na primeira parte do componente curricular Lógica 2 (LG2), do curso Técnico de Informática Integrado ao Ensino Médio do IFSP Câmpus São Paulo. 
 
-O plano de aulas do curso foi concebido com as seguintes premissas:
+A organização do curso foi realizada com base nas seguintes premissas:
 
-* O aluno possui os fundamentos da lógica de programação abordados no componente curricular Lógica 1 do 1º ano do curso
-* O componente curricular Lógica 2 é oferecido em paralelo ao componente Linguagem de Programação 1, no qual serão abordados, de forma mais aprofundada, tópicos como programação de interfaces gráficas, acesso a banco de dados, entre outros utilizando a linguagem Java
-* O foco do componente curricular será o estudo dos fundamentos da programação orientada a objetos, tendo a linguagem Java como ferramenta de apoio para demonstração prática
-* Os conteúdos abordados neste curso são base para a segunda parte da disciplina que abordará tópicos de estrutura de dados e algoritmos
+* O aluno possui os fundamentos da lógica de programação abordados no componente curricular Lógica 1 do 1º ano do curso;
+* O componente curricular Lógica 2 é oferecido em paralelo ao componente Linguagem de Programação 1, no qual são abordados, de forma mais aprofundada, tópicos como programação de interfaces gráficas, acesso a banco de dados, entre outros utilizando a linguagem Java;
+* O foco do componente curricular Lógica 2 é o estudo dos fundamentos da programação orientada a objetos, tendo a linguagem Java como ferramenta de apoio para demonstração prática;
+* Os conteúdos abordados neste curso são base para a segunda parte da disciplina que abordará tópicos de estrutura de dados e algoritmos.
 
 ## Organização dos arquivos no repositório
 
-O curso foi dividido em 12 tópicos. Cada tópico foi organizado em um diretório específico que contém os subdiretórios "demonstração" e "exercícios". O diretório demonstração apresenta exemplos de código e imagens de diagramas utilizados nas aulas. O diretório exercícios apresenta um conjunto de exercícios relacionado ao tópico. Além disso, para cada tópico foi criado um arquivo README.md com informações como assuntos abordados link de acesso para os slides e outros materiais.
+O curso foi dividido em 11 tópicos organizados em diretórios específicos que contém os subdiretórios "demonstração" e "exercícios". O diretório demonstração apresenta exemplos de código e imagens de diagramas utilizados nas aulas. O diretório exercícios apresenta um conjunto de exercícios relacionado ao tópico. Além disso, para cada tópico foi criado um arquivo README.md com informações como assuntos abordados link de acesso para os slides e outros materiais.
 
 ## Tópicos do curso
 
-1. [Revisão Fundamentos Lógica de Programação](#revisao) 
 1. [Introdução a Orientação a Objetos](#introducao)
 1. [Design de Métodos](#design)
 1. [Criação de Objetos](#criacao)
@@ -28,17 +27,7 @@ O curso foi dividido em 12 tópicos. Cada tópico foi organizado em um diretóri
 1. [Interface](#interface)
 1. [Princípios do Design Orientado a Objetos](#principios)
 
-
-### <a name="revisao"></a> 1. Revisão Fundamentos de Lógica de Programação
-
-* Algoritmos
-* Variáveis e tipos de dados
-* Operadores
-* Estruturas de controle
-* Vetores e matrizes
-* Funções
-
-### <a name="introducao"></a> 2. Introdução a Orientação a Objetos
+### <a name="introducao"></a> 1. Introdução a Orientação a Objetos
 
 * Paradigma de programação
 * Paradigma procedural/estruturado vs. orientado a objetos
@@ -47,72 +36,74 @@ O curso foi dividido em 12 tópicos. Cada tópico foi organizado em um diretóri
 * Membros da classe
 * Envio de mensagens
 * Pilares da orientação a objetos
-* UML
-* Diagrama de classes
-* Diagrama de objetos
+* UML, diagrama de classes e de objetos
 
-### <a name="design"></a> 3. Design de Métodos
+### <a name="design"></a> 2. Design de Métodos
 
-* Métodos
 * Assinatura
 * Parâmetros e argumentos
 * Tipo de retorno
-* Sobrecarga de métodos
+* Sobrecarga de métodos (Overloading)
 * Lista variável de parâmetros
-* Métodos Estáticos 
 * Argumento padrão 
 
-### <a name="criacao"></a> 4. Criação de Objetos
+### <a name="criacao"></a> 3. Criação de Objetos
 
-* Construtor
 * Construtor Padrão
-* this
-* Sobrecarga
-* Encadeamento
+* Palavra-chave this
+* Sobrecarga de construtores
+* Encadeamento de construtores
 
-### <a name="encapsulamento"></a> 5. Encapsulamento e Controle de Acesso
+### <a name="encapsulamento"></a> 4. Encapsulamento e Controle de Acesso
 
 * Encapsulamento
 * Modificadores de acesso
 * Métodos acessores e modificadores
 
-### <a name="estatico"></a> 6. Membros Estáticos
+### <a name="estatico"></a> 5. Membros Estáticos
 
-* ...
-* ...
-* ...
+* Atributos estáticos
+* Constantes estáticas
+* Métodos estáticos
+* Cenários de uso
 
-### <a name="tipos"></a> 7.  Tipos Avançados
+### <a name="tipos"></a> 6. Tipos Avançados
 
-* ...
-* ...
-* ...
+* Representação temporal
+* Valor monetário
+* Enumeração
+* Objetos de valor  
 
-### <a name="colecao"></a> 8.  Coleções de Objetos
-* ...
-* ...
-* ...
+### <a name="colecao"></a> 7. Coleções de Objetos
+* Arrays
+* Listas e Conjuntos
+* Cenários de uso
 
-### <a name="relacionamento"></a> 9. Relacionamentos entre Classes
+### <a name="relacionamento"></a> 8. Relacionamentos entre Classes
 
-* ...
-* ...
-* ...
+* Dependência
+* Associação (agregação e composição)
+* Navegabilidade
+* Multiplicidade
+* Classe associativa
 
-### <a name="heranca"></a> 10.  Herança
+### <a name="heranca"></a> 9. Herança
 
-* ...
-* ...
-* ...
+* Tipos de herança
+* Superclasse e subclasse
+* Palavra-chave super
+* Sobreescrita de métodos (Overriding)
+* Classe abstrata
+* Método abstrato
 
-### <a name="interface"></a> 11.  Interface
+### <a name="interface"></a> 10. Interface
 
-* ...
-* ...
-* ...
+* Contrato
+* Classes abstratas vs. Interfaces
 
-### <a name="principios"></a> 12. Princípios do Design Orientado a Objetos
+### <a name="principios"></a> 11. Princípios do Design Orientado a Objetos
 
-* ...
-* ...
-* ...
+* Princípios GRASP
+* Princípios SOLID
+* Padrões de Projeto (Design Patterns)
+* Decisões e erros de modelagem
