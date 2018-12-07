@@ -11,7 +11,7 @@ A organização do curso foi realizada com base nas seguintes premissas:
 
 ## Organização dos arquivos no repositório
 
-O curso foi dividido em 11 tópicos organizados em diretórios específicos que contém os subdiretórios "demonstração" e "exercícios". O diretório demonstração apresenta exemplos de código e imagens de diagramas utilizados nas aulas. O diretório exercícios apresenta um conjunto de exercícios relacionado ao tópico. Além disso, para cada tópico foi criado um arquivo README.md com informações como assuntos abordados link de acesso para os slides e outros materiais.
+O curso foi dividido em 11 tópicos organizados em diretórios específicos que contém os subdiretórios "demonstração" e "exercícios". O diretório demonstração apresenta exemplos de código e imagens de diagramas utilizados nas aulas. O diretório exercícios apresenta um conjunto de exercícios relacionado ao tópico. Além disso, para cada tópico foi criado um arquivo README.md com informações como assuntos abordados, link de acesso para os slides e outros materiais.
 
 ## Tópicos do curso
 
@@ -69,9 +69,9 @@ O curso foi dividido em 11 tópicos organizados em diretórios específicos que 
 
 ### <a name="tipos"></a> 6. Tipos Avançados
 
-* Representação temporal
-* Valor monetário
-* Enumeração
+* Representações temporais
+* Valores monetários
+* Enumerações
 * Objetos de valor  
 
 ### <a name="colecao"></a> 7. Coleções de Objetos
@@ -83,16 +83,18 @@ O curso foi dividido em 11 tópicos organizados em diretórios específicos que 
 
 * Dependência
 * Associação (agregação e composição)
+* Nome e papel
 * Navegabilidade
 * Multiplicidade
 * Classe associativa
+* Associação reflexiva
 
 ### <a name="heranca"></a> 9. Herança
 
 * Tipos de herança
 * Superclasse e subclasse
 * Palavra-chave super
-* Sobreescrita de métodos (Overriding)
+* Sobrescrita de métodos (Overriding)
 * Classe abstrata
 * Método abstrato
 
@@ -101,8 +103,9 @@ O curso foi dividido em 11 tópicos organizados em diretórios específicos que 
 * Contrato
 * Classes abstratas vs. Interfaces
 
-### <a name="principios"></a> 11. Princípios do Design Orientado a Objetos
+### <a name="principios"></a> 12. Princípios do Design Orientado a Objetos
 
+* Abordagens para identificação de objetos
 * Princípios GRASP
 * Princípios SOLID
 * Padrões de Projeto (Design Patterns)
